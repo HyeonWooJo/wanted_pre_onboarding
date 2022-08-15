@@ -1,9 +1,10 @@
 from django.db import models
 
 class Posting(models.Model):
-    comapny_name = models.CharField(null=True, max_length=100)
-    country      = models.CharField(null=True, max_length=100)
-    location     = models.CharField(null=True, max_length=100)
+    position = models.CharField(null=True, max_length=100)
+    reward   = models.IntegerField(default=0)
+    content  = models.CharField(null=True, max_length=300)
+    stack    = models.CharField(null=True, max_length=100)
 
     class Meta:
         db_table = 'postings'
