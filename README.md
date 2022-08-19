@@ -20,7 +20,7 @@
 
 ## DB Modeling
 
-[DB Modeling](https://dbdiagram.io/d/62fae4dfc2d9cf52fab04e41)
+<img width="869" alt="image" src="https://user-images.githubusercontent.com/65996045/185530653-acce9b8e-bc0f-4bd0-9987-74794342516d.png">
 
 </br>
 
