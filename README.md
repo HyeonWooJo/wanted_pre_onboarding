@@ -61,6 +61,8 @@
   - 채용 공고 상세 조회 API
   - 채용 공고를 올린 회사의 다른 채용 공고들의 ID도 반환
   - unit test 구현 완료
+
+<br>
   
 4. 채용 공고 검색
   - View Class: PostingSearchView
