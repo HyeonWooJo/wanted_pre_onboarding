@@ -7,7 +7,7 @@
 
 </br>
 
-## 구현 요구 사항
+## 구현 완료한 요구 사항
 - 채용 공고 등록
 - 채용 공고 수정
 - 채용 공고 삭제
@@ -45,11 +45,15 @@
   - update_or_create ORM으로 등록 및 수정 동시 구현
   - unit test 구현 완료
   
+<br>
+  
 2. 채용 공고 삭제
   - View Class: PostingView
   - http method: DELETE
   - 채용 공고 삭제 API
   - unit test 구현 완료
+
+<br>
   
 3. 채용 공고 상세 조회
   - View Class: PostingView
@@ -63,6 +67,8 @@
   - http method: GET
   - 회사 이름으로 채용 공고 검색 API
   - unit test 구현 완료
+
+<br>
   
 5. 채용 공고 목록 조회 
   - View Class: PostingListView
